@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranabscan
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on to some intresting Android project
+- 🌱 I’m currently learning C# .Net
+- 💞️ I’m looking to collaborate on to some intresting project that I have
 - 📫 How to reach me email: pranabs3249@gmail.com
 
 <!---
